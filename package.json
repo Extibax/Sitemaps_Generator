@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "sitemap": "babel-node sitemap.generator.js"
+    "sitemap": "babel-node src/sitemap.generator.js"
   },
   "devDependencies": {
     "@babel/cli": "^7.6.0",
